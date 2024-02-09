@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 
-    public class data {
+    public class Data {
         String datatxtPath = System.getProperty("user.dir") + "/src/com/company/data.txt";
 
         public void FoodArr(int index, double newPrice) throws IOException {
