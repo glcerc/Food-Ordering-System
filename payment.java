@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class payment {
+public class Payment {
 
 
     public static int Choose;
